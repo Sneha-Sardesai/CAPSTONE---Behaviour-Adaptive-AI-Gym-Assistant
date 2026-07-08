@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Update Aditi Password",
+			"type": "shell",
+			"command": "node update_aditi_password.js",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

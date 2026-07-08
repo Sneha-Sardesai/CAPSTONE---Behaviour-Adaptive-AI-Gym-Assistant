@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS mygym;
+CREATE DATABASE mygym;
+USE mygym;
